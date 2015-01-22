@@ -47,7 +47,7 @@ So we just looked at map from a use case standpoint, lets give reimplementing it
 
 Let's take a look at the docs together. To do this, we've provided a link below that outlines a good workflow for finding some docs...
 
-* [Click me](http://lmgtfy.com/?q=javascript+map+mdn)
+* <a href="http://lmgtfy.com/?q=javascript+map+mdn" target="_blank">Click me!</a>
 
 #####Steps:
 1. Pair with the person next to you
