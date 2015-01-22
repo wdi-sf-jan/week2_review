@@ -1,7 +1,6 @@
 # Week 2 Review
 A review of topics chosen by you during week 2! (rhyming intentional)
 #Objectives
-===========
 * Understand the return statement within a function
 * Be comfortable searching for and reading Docs
 * Understand the use of a callback within iterators
@@ -15,7 +14,6 @@ A review of topics chosen by you during week 2! (rhyming intentional)
 &nbsp;
 
 ##Docs, Return, & Iterators
-=========
 ###Basic Definitions
 * **Docs** (Documentation): When we reference the docs, we are referring to the documentation of a given language, library, framework, etc... 
 	* Javascript: [https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
