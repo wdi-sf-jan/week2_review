@@ -35,7 +35,7 @@ A return is a statement that we use within functions to cause a function to *ret
 #####Wait...didn't we use two returns that one time?
 We did. Let's parse through this bad boy together. 
  
-```
+```javascript
 function tripler (numbers) {
     return numbers.map(function(num) {
       return num * 3;
