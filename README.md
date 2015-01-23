@@ -18,7 +18,7 @@ A review of topics chosen by you during week 2! (rhyming intentional)
 * **Docs** (Documentation): When we reference the docs, we are referring to the documentation of a given language, library, framework, etc... 
 	* Javascript: [https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 	* Bootstrap: [http://getbootstrap.com/getting-started/](http://getbootstrap.com/getting-started/)	
-* **Iterator**: An Iterator is an object (read: function) that knows how to access items from a collection one at a time, while keeping track of its current position within that sequence.
+* **Iterator**: An Iterator is a function that knows how to access items from a collection one at a time, while keeping track of its current position within that sequence.
 
 ###Return
 #####So... why do we use return?
